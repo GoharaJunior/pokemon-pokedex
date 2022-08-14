@@ -1,10 +1,10 @@
 <h1 align="center">
     <br>
-        <img src=".github/maeztra-title.png" alt="Logo King Host">
+        <img src="" alt="">
     <br>
 </h1>
 <p align="center"> Visualize o projeto:
-    https://goharajunior.github.io/maeztra-store/
+    
 </p>
 
 <img src=".github/demo.gif" alt="Demonstração do Projeto" height="350">&nbsp;&nbsp;
