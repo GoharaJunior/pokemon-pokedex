@@ -1,17 +1,21 @@
-/*==================================================
- * Aqui vão todas as variáveis que serão utilizadas.
- * ================================================= */
-
- // Cores principais
-$brand-blue: #0073CE;
-$brand-light-blue: #00A5F0;
-$brand-green-light: #00D7D7;
-$brand-yellow: #FFC800;
-
-// Escalas de cinzas
-$gray-600: #33303E;
-$gray-500: #4E4B59;
-$gray-400: #5F5C6B;
-$gray-300: #7A7786;
-$gray-200: #C6C5CE;
-$gray-100: #F1F0F5;
+:root {
+    --type-bug: #9BBA48;
+    --type-dark: #595761;
+    --type-dragon: #2C6AC1;
+    --type-electric: #D4BC34;
+    --type-fairy: #E296E1;
+    --type-fighting: #C44D61;
+    --type-ground: #CE8056;
+    --type-ice: #71BAAC;
+    --type-normal: #909090;
+    --type-poison: #AC6ACA;
+    --type-psychic: #EB8B85;
+    --type-rock: #84BEB3;
+    --type-ghost: #616EB7;
+    --type-grass: #73B861;
+    --type-steel: #6594A1;
+    --type-water: #4F77BE;
+    --type-fire: #E96303;
+    --type-flying: #758CBD;
+    --blue-primary: #3F5DB3;
+}
