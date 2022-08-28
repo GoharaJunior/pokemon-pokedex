@@ -95,109 +95,109 @@
 
     &.bug {
         span {
-            color: #9BBA48;
+            color: var(--type-bug);
         }
     }
 
     &.dark {
         span {
-            color: #595761;
+            color: var(--type-dark);
         }
     }
 
     &.dragon {
         span {
-            color: #2C6AC1;
+            color: var(--type-dragon);
         }
     }
 
     &.electric {
         span {
-            color: #EED967;
+            color: var(--type-electric);
         }
     }
 
     &.fairy {
         span {
-            color: #E296E1;
+            color: var(--type-fairy);
         }
     }
 
     &.fighting {
         span {
-            color: #C44D61;
+            color: var(--type-fighting);
         }
     }
 
     &.ground {
         span {
-            color: #CE8056;
+            color: var(--type-ground);
         }
     }
 
     &.ice {
         span {
-            color: #8BCEC1;
+            color: var(--type-ice);
         }
     }
 
     &.normal {
         span {
-            color: #A0A29F;
+            color: var(--type-normal);
         }
     }
 
     &.poison {
         span {
-            color: #AC6ACA;
+            color: --type-poison;
         }
     }
 
     &.psychic {
         span {
-            color: #EB8B85;
+            color: var(--type-psychic);
         }
     }
     
     &.rock {
         span {
-            color: #8BCEC1;
+            color: var(--type-rock);
         }
     }
 
     &.ghost {
         span {
-            color: #616EB7;
+            color: var(--type-ghost);
         }
     }
 
     &.grass {
         span {
-            color: #73B861;
+            color: var(--type-grass);
         }
     }
 
     &.steal {
         span {
-            color: #6594A1;
+            color: var(--type-steel);
         }
     }
 
     &.water {
         span {
-            color: #88A3D4;
+            color: var(--type-water);
         }
     }
 
     &.fire {
         span {
-            color: #F66D6D;
+            color: var(--type-fire);
         }
     }
 
     &.flying {
         span {
-            color: #A6BBE8;
+            color: var(--type-flying);
         }
     }
 }
@@ -511,10 +511,10 @@
     font-size: 1.4rem;
     line-height: 1.7rem;
     letter-spacing: -0.01em;
-    color: #3F5DB3;
+    color: var(--blue-primary);
     transition: all .3s;
     &:hover {
-        background-color: #3F5DB3;
+        background-color: var(--blue-primary);
         color: #ffffff;
     }
 }
