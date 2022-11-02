@@ -4,7 +4,7 @@
     <br>
 </h1>
 <p align="center"> Visualize o projeto:
-    https://lp-pokemon-pokedex.netlify.app/
+    https://lp-pokedex.netlify.app
 </p>
 
 <img src=".github/demo.gif" alt="Demonstração do Projeto" height="350">&nbsp;&nbsp;
